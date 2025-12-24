@@ -1,2 +1,2 @@
-# bhagyashri-demo
-This is a demo for Git &amp; Github class
+.# bhagyashri-demo
+This is a demo for Git &amp; Github class.
